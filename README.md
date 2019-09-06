@@ -1,2 +1,2 @@
-# [Alpharetta Hack Club Landing Page]
+# Alpharetta Hack Club Landing Page
 
